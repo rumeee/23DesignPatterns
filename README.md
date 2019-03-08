@@ -54,3 +54,7 @@
 ## 软件设计的目标
 什么是好的软件设计？软件设计的金科玉律： 复用！
 
+
+## 详细课程
+[第二课：面向对象设计原则](https://github.com/rogertan30/23DesignPatterns/blob/master/2.面向对象设计原则)
+
