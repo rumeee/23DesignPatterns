@@ -1,3 +1,9 @@
+## 课程介绍
+由GeekBand出品的《23个设计模式》，视频使用语言是c++
+
+## 课程地址
+[bilibili](https://www.bilibili.com/video/av24176315/?p=4)
+
 ## 课程目标
 * 理解松耦合设计思想
 * 掌握面向对象设计原则
@@ -55,6 +61,6 @@
 什么是好的软件设计？软件设计的金科玉律： 复用！
 
 
-## 详细课程
+## 笔记和源码
 [第二课：面向对象设计原则](https://github.com/rogertan30/23DesignPatterns/blob/master/2.面向对象设计原则)
 
