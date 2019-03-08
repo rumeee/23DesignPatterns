@@ -11,7 +11,7 @@
 《设计模式：可复用面向对象软件的基础》
 
 ## 从面向对象谈起
-![屏幕快照 2019-03-08 上午10.20.12.png](http://github.com/rogertan30/23DesignPatterns/images/cxydcsw.png)
+![从面向对象谈起](https://github.com/rogertan30/23DesignPatterns/blob/master/images/cxydcsw.png)
 
 ### 底层思维：向下，如何把握机器底层从微观理解对象构造
 * 语言构造
